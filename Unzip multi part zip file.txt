@@ -1,0 +1,9 @@
+To extract the zipped multi-file archive, we need to ‘fix’ it first. So, let’s run zip with the FF option on the ‘head’ file of the archive. In addition, we need to use the out option:
+
+$ zip -FF Pictures_backup.zip --out Pictures_single.zip
+
+Next, we can unzip the result file Pictures_single.zip here to a temporary directory indicated by the d option:
+
+unzip Pictures_single.zip -d ./temp
+
+more - https://www.baeldung.com/linux/multipart-zip-archives-split-files#unzip-multi-file-archive
