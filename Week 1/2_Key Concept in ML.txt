@@ -1,0 +1,13 @@
+Types of ML - 
+A] Supervised ML (Learn to predict target values from labelled data)
+   a] Classification (target values are discrete classes)
+   b] Regression (target values are continuous values)
+
+B] Unsupervised ML (Find structure or knowledge in unlabeled data)
+   - Find groups of similar instances in data (clustering)
+   - Finding unusual patterns (outlier detection)
+
+Basic ML Workflow -
+Representation -> Evaluation -> Optimization
+Loop between Evaluation and Optimization
+

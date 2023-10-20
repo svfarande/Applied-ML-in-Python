@@ -1,0 +1,12 @@
+Python Libraries -
+
+1] scikit-learn : 
+	ML Algorithms (Checkout User Guide and API docs)
+2] SciPy : 
+	Satistical Distribution, optimization of functions, linear algebra, etc maths functions. Sparse Matrices (a way to store large tables that consists of mostly zeros)
+3] NumPy : 
+	Data Structure for sklearn. Ex - Multidimensional Array
+4] Pandas : 
+	Key Data Structure like Dataframe. Read/Write data in different format.
+5] Matplotlib / Seaborn / Graphviz : 
+	Visualizations
